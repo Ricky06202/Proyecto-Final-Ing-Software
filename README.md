@@ -25,3 +25,7 @@ probando más cosas 26/06
 * Frontend: por agregar
 
 Añadir contenido 06/26/2024
+ 
+## Colaboraciones 
+
+Ketzy Segundo Semestre
