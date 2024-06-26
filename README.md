@@ -18,6 +18,7 @@ Estoy añadiendo un resumen el día 26-06-2024
 Poyecto
 
 probando más cosas 26/06
+Javier Ayala segundo semestre
 
 ## Herramientas para el proyecto
 
