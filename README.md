@@ -1,4 +1,4 @@
-# Proyecto Final de Ingenieria de Software
+# Proyecto Final de Ingenieria de Software - 2024
 
 ## Integrantes
 
@@ -13,14 +13,15 @@
 * Colaborar en el proyecto mediante el uso de las herramientas de Gitlens y GitGraph a traves del editor de Visual Studio Code
 
 ## Resumen
+
 Estoy añadiendo un resumen el día 26-06-2024
 Poyecto
 
 probando más cosas 26/06
 
-
 ## Herramientas para el proyecto
+
 * Base de datos: MongoDB
-* Frontend: por agregar 
+* Frontend: por agregar
 
 Añadir contenido 06/26/2024
