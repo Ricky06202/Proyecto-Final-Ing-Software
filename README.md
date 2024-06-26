@@ -13,3 +13,5 @@
 * Colaborar en el proyecto mediante el uso de las herramientas de Gitlens y GitGraph a traves del editor de Visual Studio Code
 
 ## Resumen
+Estoy añadiendo un resumen el día 26-06-2024
+Poyecto
