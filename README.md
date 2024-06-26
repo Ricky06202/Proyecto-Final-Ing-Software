@@ -18,4 +18,9 @@ Poyecto
 
 probando más cosas 26/06
 
+
+## Herramientas para el proyecto
+* Base de datos: MongoDB
+* Frontend: por agregar 
+
 Añadir contenido 06/26/2024
