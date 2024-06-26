@@ -24,3 +24,5 @@ probando más cosas 26/06
 * Frontend: por agregar 
 
 Añadir contenido 06/26/2024
+
+insertando nueva información 12:15
